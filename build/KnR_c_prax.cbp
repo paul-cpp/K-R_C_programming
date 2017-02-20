@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="KnR_c_prax"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="X:/qt creator/K-R_C_programming-master/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KnR_c_prax">
+				<Option output="X:/qt creator/K-R_C_programming-master/build/KnR_c_prax.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="X:/qt creator/K-R_C_programming-master/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 KnR_c_prax"/>
+					<CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KnR_c_prax/fast">
+				<Option output="X:/qt creator/K-R_C_programming-master/build/KnR_c_prax.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="X:/qt creator/K-R_C_programming-master/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 KnR_c_prax/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="X:/qt creator/K-R_C_programming-master/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="X:/qt creator/K-R_C_programming-master/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;X:/qt creator/K-R_C_programming-master/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="X:/qt creator/K-R_C_programming-master/bool.h">
+			<Option target="KnR_c_prax"/>
+		</Unit>
+		<Unit filename="X:/qt creator/K-R_C_programming-master/ch_3_flow_control/bool.h">
+			<Option target="KnR_c_prax"/>
+		</Unit>
+		<Unit filename="X:/qt creator/K-R_C_programming-master/ch_3_flow_control/chapter_3_flow_control.h">
+			<Option target="KnR_c_prax"/>
+		</Unit>
+		<Unit filename="X:/qt creator/K-R_C_programming-master/ch_3_flow_control/ex_3-2_escape.h">
+			<Option target="KnR_c_prax"/>
+		</Unit>
+		<Unit filename="X:/qt creator/K-R_C_programming-master/ch_3_flow_control/ex_3-3_expand.h">
+			<Option target="KnR_c_prax"/>
+		</Unit>
+		<Unit filename="X:/qt creator/K-R_C_programming-master/ch_3_flow_control/ex_3-5_itob.h">
+			<Option target="KnR_c_prax"/>
+		</Unit>
+		<Unit filename="X:/qt creator/K-R_C_programming-master/ch_4_functions/bool.h">
+			<Option target="KnR_c_prax"/>
+		</Unit>
+		<Unit filename="X:/qt creator/K-R_C_programming-master/ch_4_functions/ch_4-11_quick_sort.h">
+			<Option target="KnR_c_prax"/>
+		</Unit>
+		<Unit filename="X:/qt creator/K-R_C_programming-master/ch_4_functions/ch_4-3_calculator.h">
+			<Option target="KnR_c_prax"/>
+		</Unit>
+		<Unit filename="X:/qt creator/K-R_C_programming-master/ch_4_functions/chapter_4_functions.h">
+			<Option target="KnR_c_prax"/>
+		</Unit>
+		<Unit filename="X:/qt creator/K-R_C_programming-master/ch_4_functions/ex_4-13_reverse_recursive.h">
+			<Option target="KnR_c_prax"/>
+		</Unit>
+		<Unit filename="X:/qt creator/K-R_C_programming-master/ch_4_functions/ex_4-1_strindex.h">
+			<Option target="KnR_c_prax"/>
+		</Unit>
+		<Unit filename="X:/qt creator/K-R_C_programming-master/ch_5_pointers_and_arrays/ch_5_stuff.h">
+			<Option target="KnR_c_prax"/>
+		</Unit>
+		<Unit filename="X:/qt creator/K-R_C_programming-master/ch_5_pointers_and_arrays/chapter_5_pointers_and_arrays.h">
+			<Option target="KnR_c_prax"/>
+		</Unit>
+		<Unit filename="X:/qt creator/K-R_C_programming-master/ch_5_pointers_and_arrays/ex_5.h">
+			<Option target="KnR_c_prax"/>
+		</Unit>
+		<Unit filename="X:/qt creator/K-R_C_programming-master/main.c">
+			<Option target="KnR_c_prax"/>
+		</Unit>
+		<Unit filename="X:/qt creator/K-R_C_programming-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

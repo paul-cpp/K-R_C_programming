@@ -1,0 +1,112 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+X:/qt creator/K-R_C_programming-master/ch_3_flow_control/bool.h
+
+X:/qt creator/K-R_C_programming-master/ch_3_flow_control/chapter_3_flow_control.h
+stdio.h
+-
+ctype.h
+-
+string.h
+-
+ex_3-2_escape.h
+X:/qt creator/K-R_C_programming-master/ch_3_flow_control/ex_3-2_escape.h
+ex_3-3_expand.h
+X:/qt creator/K-R_C_programming-master/ch_3_flow_control/ex_3-3_expand.h
+ex_3-5_itob.h
+X:/qt creator/K-R_C_programming-master/ch_3_flow_control/ex_3-5_itob.h
+
+X:/qt creator/K-R_C_programming-master/ch_3_flow_control/ex_3-2_escape.h
+
+X:/qt creator/K-R_C_programming-master/ch_3_flow_control/ex_3-3_expand.h
+bool.h
+X:/qt creator/K-R_C_programming-master/ch_3_flow_control/bool.h
+
+X:/qt creator/K-R_C_programming-master/ch_3_flow_control/ex_3-5_itob.h
+
+X:/qt creator/K-R_C_programming-master/ch_4_functions/ch_4-11_quick_sort.h
+
+X:/qt creator/K-R_C_programming-master/ch_4_functions/ch_4-3_calculator.h
+stdio.h
+-
+stdlib.h
+-
+locale.h
+-
+
+X:/qt creator/K-R_C_programming-master/ch_4_functions/chapter_4_functions.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+ch_4-11_quick_sort.h
+X:/qt creator/K-R_C_programming-master/ch_4_functions/ch_4-11_quick_sort.h
+ex_4-1_strindex.h
+X:/qt creator/K-R_C_programming-master/ch_4_functions/ex_4-1_strindex.h
+ex_4-13_reverse_recursive.h
+X:/qt creator/K-R_C_programming-master/ch_4_functions/ex_4-13_reverse_recursive.h
+ch_4-3_calculator.h
+X:/qt creator/K-R_C_programming-master/ch_4_functions/ch_4-3_calculator.h
+
+X:/qt creator/K-R_C_programming-master/ch_4_functions/ex_4-13_reverse_recursive.h
+
+X:/qt creator/K-R_C_programming-master/ch_4_functions/ex_4-1_strindex.h
+bool.h
+X:/qt creator/K-R_C_programming-master/ch_4_functions/bool.h
+
+X:/qt creator/K-R_C_programming-master/ch_5_pointers_and_arrays/ch_5_stuff.h
+
+X:/qt creator/K-R_C_programming-master/ch_5_pointers_and_arrays/chapter_5_pointers_and_arrays.h
+ch_5_stuff.h
+X:/qt creator/K-R_C_programming-master/ch_5_pointers_and_arrays/ch_5_stuff.h
+ex_5.h
+X:/qt creator/K-R_C_programming-master/ch_5_pointers_and_arrays/ex_5.h
+
+X:/qt creator/K-R_C_programming-master/ch_5_pointers_and_arrays/ex_5-10.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+
+X:/qt creator/K-R_C_programming-master/ch_5_pointers_and_arrays/ex_5.h
+stdio.h
+-
+stdlib.h
+-
+conio.h
+-
+ctype.h
+-
+string.h
+-
+
+X:/qt creator/K-R_C_programming-master/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+locale.h
+-
+time.h
+-
+ch_3_flow_control/chapter_3_flow_control.h
+X:/qt creator/K-R_C_programming-master/ch_3_flow_control/chapter_3_flow_control.h
+ch_4_functions/chapter_4_functions.h
+X:/qt creator/K-R_C_programming-master/ch_4_functions/chapter_4_functions.h
+ch_5_pointers_and_arrays/chapter_5_pointers_and_arrays.h
+X:/qt creator/K-R_C_programming-master/ch_5_pointers_and_arrays/chapter_5_pointers_and_arrays.h
+

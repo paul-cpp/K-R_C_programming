@@ -1,0 +1,3 @@
+X:/qt creator/K-R_C_programming-master/build/CMakeFiles/KnR_c_prax.dir
+X:/qt creator/K-R_C_programming-master/build/CMakeFiles/edit_cache.dir
+X:/qt creator/K-R_C_programming-master/build/CMakeFiles/rebuild_cache.dir
